@@ -1,0 +1,48 @@
+Uniform Crime Reporting Statistics - UCR Data Online
+http://www.ucrdatatool.gov/
+
+Crime in 2012
+
+Agency,State,Months,Population,Violent crime total,Murder and nonnegligent Manslaughter,Forcible rape,Robbery,Aggravated assault,Property crime total,Burglary,Larceny-theft,Motor vehicle theft,Violent Crime rate,Murder and nonnegligent manslaughter rate,Forcible rape rate,Robbery rate,Aggravated assault rate,Property crime rate,Burglary rate,Larceny-theft rate,Motor vehicle theft rate,
+Amherst Police Dept,NH,12,      11251,           4,           0,           3,           0,           1,         220,          18,         201,           1,          35.6,            .0,          26.7,            .0,           8.9,       1955.4,         160.0,       1786.5,           8.9
+Bedford Police Dept,NH,12,      21297,           8,           0,           1,           1,           6,         393,          43,         343,           7,          37.6,            .0,           4.7,           4.7,          28.2,       1845.3,         201.9,       1610.6,          32.9
+Claremont Police Dept,NH,12,      13293,          39,           1,           6,           2,          30,         477,          66,         397,          14,         293.4,           7.5,          45.1,          15.0,         225.7,       3588.4,         496.5,       2986.5,         105.3
+Concord Police Dept,NH,12,      42815,          92,           0,          22,          19,          51,       1272,         182,       1063,          27,         214.9,            .0,          51.4,          44.4,         119.1,       2970.9,         425.1,       2482.8,          63.1
+Conway Police Dept,NH,12,      10096,          45,           0,           6,           9,          30,         438,          59,         370,           9,         445.7,            .0,          59.4,          89.1,         297.1,       4338.4,         584.4,       3664.8,          89.1
+Derry Police Dept,NH,12,      33284,          60,           0,           8,           5,          47,         793,         182,         574,          37,         180.3,            .0,          24.0,          15.0,         141.2,       2382.5,         546.8,       1724.6,         111.2
+Dover Police Dept,NH,12,      30226,          36,           1,           8,           9,          18,         623,          87,         528,           8,         119.1,           3.3,          26.5,          29.8,          59.6,       2061.1,         287.8,       1746.8,          26.5
+Durham Police Dept,NH,12,      14712,          21,           0,           5,           0,          16,         116,          18,          96,           2,         142.7,            .0,          34.0,            .0,         108.8,         788.5,         122.3,         652.5,          13.6
+Exeter Town Police Dept,NH,12,      14380,          16,           0,           8,           1,           7,         155,          19,         129,           7,         111.3,            .0,          55.6,           7.0,          48.7,       1077.9,         132.1,         897.1,          48.7
+Goffstown Police Dept,NH,12,      17723,           8,           0,           1,           2,           5,         244,          48,         194,           2,          45.1,            .0,           5.6,          11.3,          28.2,       1376.7,         270.8,       1094.6,          11.3
+Hampton Police Dept,NH,12,      15510,          25,           0,           7,           1,          17,         318,          40,         261,          17,         161.2,            .0,          45.1,           6.4,         109.6,       2050.3,         257.9,       1682.8,         109.6
+Hanover Police Dept,NH,12,      11265,          11,           0,           8,           0,           3,         230,          16,         212,           2,          97.6,            .0,          71.0,            .0,          26.6,       2041.7,         142.0,       1881.9,          17.8
+Hooksett Police Dept,NH,12,      13489,          22,           0,           5,           5,          12,         431,          49,         376,           6,         163.1,            .0,          37.1,          37.1,          89.0,       3195.2,         363.3,       2787.5,          44.5
+Hudson Municipal Police Dept,NH,12,      24574,          30,           0,           6,           5,          19,         423,          68,         335,          20,         122.1,            .0,          24.4,          20.3,          77.3,       1721.3,         276.7,       1363.2,          81.4
+Keene Police Dept,NH,12,      23399,          61,           0,           6,          13,          42,         831,         114,         688,          29,         260.7,            .0,          25.6,          55.6,         179.5,       3551.4,         487.2,       2940.3,         123.9
+Laconia Police Dept,NH,12,      16016,          60,           0,          10,           8,          42,         714,         120,         575,          19,         374.6,            .0,          62.4,          50.0,         262.2,       4458.0,         749.3,       3590.2,         118.6
+Lebanon Police Dept,NH,12,      13145,          39,           0,          10,           8,          21,         432,          43,         384,           5,         296.7,            .0,          76.1,          60.9,         159.8,       3286.4,         327.1,       2921.3,          38.0
+Londonderry Police Dept,NH,12,      24257,          25,           0,           3,           3,          19,         407,          71,         320,          16,         103.1,            .0,          12.4,          12.4,          78.3,       1677.9,         292.7,       1319.2,          66.0
+Manchester Police Dept,NH,12,     110040,         624,           1,          72,         205,         346,       3848,         849,       2848,         151,         567.1,            .9,          65.4,         186.3,         314.4,       3496.9,         771.5,       2588.1,         137.2
+Merrimack Police Dept,NH,12,      25606,           6,           0,           0,           1,           5,         223,          33,         181,           9,          23.4,            .0,            .0,           3.9,          19.5,         870.9,         128.9,         706.9,          35.1
+Milford Police Dept,NH,12,      15181,          32,           0,           3,           8,          21,         333,          43,         275,          15,         210.8,            .0,          19.8,          52.7,         138.3,       2193.5,         283.2,       1811.5,          98.8
+Nashua Police Dept,NH,12,      86870,         204,           0,          37,          48,         119,       2361,         375,       1902,          84,         234.8,            .0,          42.6,          55.3,         137.0,       2717.9,         431.7,       2189.5,          96.7
+Pelham Town Police Dept,NH,12,      12954,          11,           0,           1,           1,           9,         217,          40,         168,           9,          84.9,            .0,           7.7,           7.7,          69.5,       1675.2,         308.8,       1296.9,          69.5
+Portsmouth Police Dept,NH,12,      20888,          34,           0,           5,          11,          18,         588,          60,         512,          16,         162.8,            .0,          23.9,          52.7,          86.2,       2815.0,         287.2,       2451.2,          76.6
+Raymond Police Dept,NH,12,      10190,          23,           1,           8,           1,          13,         185,          38,         142,           5,         225.7,           9.8,          78.5,           9.8,         127.6,       1815.5,         372.9,       1393.5,          49.1
+Rochester Police Dept,NH,12,      29992,          75,           0,           7,          19,          49,       1094,         131,         934,          29,         250.1,            .0,          23.3,          63.4,         163.4,       3647.6,         436.8,       3114.2,          96.7
+Salem Police Dept,NH,12,      28926,          38,           2,           6,          12,          18,         902,          88,         771,          43,         131.4,           6.9,          20.7,          41.5,          62.2,       3118.3,         304.2,       2665.4,         148.7
+Somersworth Police Dept,NH,12,      11862,          53,           0,          12,          12,          29,         573,          62,         501,          10,         446.8,            .0,         101.2,         101.2,         244.5,       4830.6,         522.7,       4223.6,          84.3
+Windham Police Dept,NH,12,      13664,          15,           0,           7,           1,           7,         141,          28,         108,           5,         109.8,            .0,          51.2,           7.3,          51.2,       1031.9,         204.9,         790.4,          36.6
+
+"Notes: When data are unavailable, the cells are blank or the year is not presented."
+
+              Variations in population coverage and reporting practices may cause differences in reporting from year to year. (See definitions)
+
+              MSA and non-MSA county populations are not available.
+
+"           Rates are the number of reported offenses per 100,000 population"
+
+          Crime rates are not available for agencies that report data for less than 12 months of a year.
+
+"Sources: FBI, Uniform Crime Reports, prepared by the National Archive of Criminal Justice Data" 
+Date of download: Jan 29 2016 

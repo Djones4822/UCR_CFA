@@ -1,0 +1,32 @@
+Uniform Crime Reporting Statistics - UCR Data Online
+http://www.ucrdatatool.gov/
+
+Crime in 2012
+
+Agency,State,Months,Population,Violent crime total,Murder and nonnegligent Manslaughter,Forcible rape,Robbery,Aggravated assault,Property crime total,Burglary,Larceny-theft,Motor vehicle theft,Violent Crime rate,Murder and nonnegligent manslaughter rate,Forcible rape rate,Robbery rate,Aggravated assault rate,Property crime rate,Burglary rate,Larceny-theft rate,Motor vehicle theft rate,
+Aberdeen City Police Dept,SD,12,      26593,          69,           0,          23,           1,          45,         507,          88,         392,          27,         259.5,            .0,          86.5,           3.8,         169.2,       1906.5,         330.9,       1474.1,         101.5
+Brookings Police Dept,SD,12,      22478,           8,           0,           0,           0,           8,          40,           0,          40,           0,          35.6,            .0,            .0,            .0,          35.6,         178.0,            .0,         178.0,            .0
+Huron Police Dept,SD,12,      12849,          41,           0,           9,           0,          32,         429,          64,         347,          18,         319.1,            .0,          70.0,            .0,         249.0,       3338.8,         498.1,       2700.6,         140.1
+Minnehaha County Sheriff Department,SD,12,,          41,           0,          14,           0,          27,         317,          82,         224,          11,,,,,,,,,
+Mitchell Police Dept,SD,12,      15541,          51,           0,          17,           3,          31,         433,          61,         350,          22,         328.2,            .0,         109.4,          19.3,         199.5,       2786.2,         392.5,       2252.1,         141.6
+Pennington County Sheriff Office,SD,12,,          63,           0,          20,           0,          43,         408,         116,         271,          21,,,,,,,,,
+Pierre Police Dept,SD,12,      14016,          44,           1,          14,           2,          27,         507,          58,         423,          26,         313.9,           7.1,          99.9,          14.3,         192.6,       3617.3,         413.8,       3018.0,         185.5
+Rapid City Police Dept,SD,12,      69979,         425,           4,         111,          55,         255,       3555,         591,       2734,         230,         607.3,           5.7,         158.6,          78.6,         364.4,       5080.1,         844.5,       3906.9,         328.7
+Sioux Falls Police Dept,SD,12,     158354,         631,           2,         139,          70,         420,       5041,         899,       3843,         299,         398.5,           1.3,          87.8,          44.2,         265.2,       3183.4,         567.7,       2426.8,         188.8
+Spearfish Police Dept,SD,12,      10704,          18,           0,           8,           0,          10,         375,          47,         320,           8,         168.2,            .0,          74.7,            .0,          93.4,       3503.4,         439.1,       2989.5,          74.7
+Vermillion Police Dept,SD,12,      10826,          30,           0,           4,           1,          25,         248,          37,         201,          10,         277.1,            .0,          36.9,           9.2,         230.9,       2290.8,         341.8,       1856.6,          92.4
+Watertown Police Dept,SD,12,      21902,          62,           0,          13,           2,          47,         523,         112,         387,          24,         283.1,            .0,          59.4,           9.1,         214.6,       2387.9,         511.4,       1767.0,         109.6
+Yankton Police Dept,SD,12,      14728,          42,           0,          19,           2,          21,         453,          57,         378,          18,         285.2,            .0,         129.0,          13.6,         142.6,       3075.8,         387.0,       2566.5,         122.2
+
+"Notes: When data are unavailable, the cells are blank or the year is not presented."
+
+              Variations in population coverage and reporting practices may cause differences in reporting from year to year. (See definitions)
+
+              MSA and non-MSA county populations are not available.
+
+"           Rates are the number of reported offenses per 100,000 population"
+
+          Crime rates are not available for agencies that report data for less than 12 months of a year.
+
+"Sources: FBI, Uniform Crime Reports, prepared by the National Archive of Criminal Justice Data" 
+Date of download: Jan 29 2016 

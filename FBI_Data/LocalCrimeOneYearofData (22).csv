@@ -1,0 +1,38 @@
+Uniform Crime Reporting Statistics - UCR Data Online
+http://www.ucrdatatool.gov/
+
+Crime in 2012
+
+Agency,State,Months,Population,Violent crime total,Murder and nonnegligent Manslaughter,Forcible rape,Robbery,Aggravated assault,Property crime total,Burglary,Larceny-theft,Motor vehicle theft,Violent Crime rate,Murder and nonnegligent manslaughter rate,Forcible rape rate,Robbery rate,Aggravated assault rate,Property crime rate,Burglary rate,Larceny-theft rate,Motor vehicle theft rate,
+Beatrice Police Dept,NE,12,      12388,          37,           0,           9,           2,          26,         452,         104,         342,           6,         298.7,            .0,          72.7,          16.1,         209.9,       3648.7,         839.5,       2760.7,          48.4
+Bellevue City Police Dept,NE,12,      51678,          55,           1,          20,          13,          21,       1142,         155,         890,          97,         106.4,           1.9,          38.7,          25.2,          40.6,       2209.8,         299.9,       1722.2,         187.7
+Columbus Police Dept,NE,12,      22537,          20,           0,           7,           2,          11,         475,          68,         389,          18,          88.7,            .0,          31.1,           8.9,          48.8,       2107.6,         301.7,       1726.1,          79.9
+Douglas County Sheriff Office,NE,12,,         100,           0,           8,           5,          87,       1207,         331,         777,          99,,,,,,,,,
+Fremont Police Dept,NE,12,      26641,          29,           0,          10,           1,          18,         693,         104,         555,          34,         108.9,            .0,          37.5,           3.8,          67.6,       2601.3,         390.4,       2083.3,         127.6
+Grand Island Police Dept,NE,12,      49583,         162,           0,          40,          21,         101,       2305,         367,       1859,          79,         326.7,            .0,          80.7,          42.4,         203.7,       4648.8,         740.2,       3749.3,         159.3
+Hastings Police Dept,NE,12,      24961,          57,           0,          24,          10,          23,         911,         149,         726,          36,         228.4,            .0,          96.1,          40.1,          92.1,       3649.7,         596.9,       2908.5,         144.2
+Kearney Police Dept,NE,12,      31392,          42,           1,          15,           3,          23,         867,         118,         733,          16,         133.8,           3.2,          47.8,           9.6,          73.3,       2761.9,         375.9,       2335.0,          51.0
+Lavista Police Dept,NE,12,      16242,          10,           0,           5,           3,           2,         262,          36,         192,          34,          61.6,            .0,          30.8,          18.5,          12.3,       1613.1,         221.6,       1182.1,         209.3
+Lancaster County Sheriff Department,NE,12,,          24,           1,           9,           2,          12,         370,         130,         232,           8,,,,,,,,,
+Lexington Police Dept,NE,12,      10329,          16,           0,           7,           0,           9,         306,          79,         219,           8,         154.9,            .0,          67.8,            .0,          87.1,       2962.5,         764.8,       2120.2,          77.5
+Lincoln Police Dept,NE,12,     264175,       1050,           3,         182,         197,         668,      10171,       1616,       8244,         311,         397.5,           1.1,          68.9,          74.6,         252.9,       3850.1,         611.7,       3120.7,         117.7
+Norfolk City Police Dept,NE,12,      24418,          28,           0,          18,           0,          10,         820,         108,         675,          37,         114.7,            .0,          73.7,            .0,          41.0,       3358.2,         442.3,       2764.4,         151.5
+North Platte Police Dept,NE,12,      24806,          65,           0,          19,           7,          39,       1118,         121,         953,          44,         262.0,            .0,          76.6,          28.2,         157.2,       4507.0,         487.8,       3841.8,         177.4
+Omaha Police Dept,NE,12,     417970,       2485,          41,         187,         815,       1442,      19178,       3311,      13120,       2747,         594.5,           9.8,          44.7,         195.0,         345.0,       4588.4,         792.2,       3139.0,         657.2
+Papillion Police Dept,NE,12,      19466,           8,           0,           2,           1,           5,         444,          36,         388,          20,          41.1,            .0,          10.3,           5.1,          25.7,       2280.9,         184.9,       1993.2,         102.7
+Sarpy County Sheriff Department,NE,12,,          18,           0,           8,           5,           5,         695,         101,         544,          50,,,,,,,,,
+Scotts Bluff Police Dept,NE,12,      15174,          19,           0,           4,           3,          12,         576,          77,         480,          19,         125.2,            .0,          26.4,          19.8,          79.1,       3796.0,         507.4,       3163.3,         125.2
+South Sioux Police Dept,NE,12,      13386,          21,           0,           3,           5,          13,         369,          50,         299,          20,         156.9,            .0,          22.4,          37.4,          97.1,       2756.6,         373.5,       2233.7,         149.4
+
+"Notes: When data are unavailable, the cells are blank or the year is not presented."
+
+              Variations in population coverage and reporting practices may cause differences in reporting from year to year. (See definitions)
+
+              MSA and non-MSA county populations are not available.
+
+"           Rates are the number of reported offenses per 100,000 population"
+
+          Crime rates are not available for agencies that report data for less than 12 months of a year.
+
+"Sources: FBI, Uniform Crime Reports, prepared by the National Archive of Criminal Justice Data" 
+Date of download: Jan 29 2016 

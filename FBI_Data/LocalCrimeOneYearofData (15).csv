@@ -1,0 +1,28 @@
+Uniform Crime Reporting Statistics - UCR Data Online
+http://www.ucrdatatool.gov/
+
+Crime in 2012
+
+Agency,State,Months,Population,Violent crime total,Murder and nonnegligent Manslaughter,Forcible rape,Robbery,Aggravated assault,Property crime total,Burglary,Larceny-theft,Motor vehicle theft,Violent Crime rate,Murder and nonnegligent manslaughter rate,Forcible rape rate,Robbery rate,Aggravated assault rate,Property crime rate,Burglary rate,Larceny-theft rate,Motor vehicle theft rate,
+Bismarck Police Dept,ND,12,      64103,         218,           1,          31,          16,         170,       1945,         320,       1522,         103,         340.1,           1.6,          48.4,          25.0,         265.2,       3034.2,         499.2,       2374.3,         160.7
+Dickinson Police Dept,ND,12,      18924,          41,           0,           0,           3,          38,         389,          27,         339,          23,         216.7,            .0,            .0,          15.9,         200.8,       2055.6,         142.7,       1791.4,         121.5
+Fargo Police Dept,ND,12,     109813,         394,           2,          69,          46,         277,       2835,         451,       2229,         155,         358.8,           1.8,          62.8,          41.9,         252.2,       2581.7,         410.7,       2029.8,         141.1
+Grand Forks Police Dept,ND,12,      53839,         146,           0,          24,          23,          99,       1409,         228,       1091,          90,         271.2,            .0,          44.6,          42.7,         183.9,       2617.1,         423.5,       2026.4,         167.2
+Jamestown Police Dept,ND,12,      15753,          32,           0,          12,           0,          20,         419,          77,         319,          23,         203.1,            .0,          76.2,            .0,         127.0,       2659.8,         488.8,       2025.0,         146.0
+Mandan City Police Dept,ND,12,      18932,          50,           2,           9,           5,          34,         515,          51,         420,          44,         264.1,          10.6,          47.5,          26.4,         179.6,       2720.3,         269.4,       2218.5,         232.4
+Minot Police Dept,ND,12,      43460,         101,           0,          20,           6,          75,         763,          78,         605,          80,         232.4,            .0,          46.0,          13.8,         172.6,       1755.6,         179.5,       1392.1,         184.1
+West Fargo Police Dept,ND,12,      26894,          62,           0,           2,           5,          55,         482,          77,         370,          35,         230.5,            .0,           7.4,          18.6,         204.5,       1792.2,         286.3,       1375.8,         130.1
+Williston Police Dept,ND,12,      16373,          64,           1,          12,           2,          49,         760,          44,         603,         113,         390.9,           6.1,          73.3,          12.2,         299.3,       4641.8,         268.7,       3682.9,         690.2
+
+"Notes: When data are unavailable, the cells are blank or the year is not presented."
+
+              Variations in population coverage and reporting practices may cause differences in reporting from year to year. (See definitions)
+
+              MSA and non-MSA county populations are not available.
+
+"           Rates are the number of reported offenses per 100,000 population"
+
+          Crime rates are not available for agencies that report data for less than 12 months of a year.
+
+"Sources: FBI, Uniform Crime Reports, prepared by the National Archive of Criminal Justice Data" 
+Date of download: Jan 29 2016 

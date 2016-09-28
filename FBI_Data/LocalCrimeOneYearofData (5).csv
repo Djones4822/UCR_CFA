@@ -1,0 +1,27 @@
+Uniform Crime Reporting Statistics - UCR Data Online
+http://www.ucrdatatool.gov/
+
+Crime in 2012
+
+Agency,State,Months,Population,Violent crime total,Murder and nonnegligent Manslaughter,Forcible rape,Robbery,Aggravated assault,Property crime total,Burglary,Larceny-theft,Motor vehicle theft,Violent Crime rate,Murder and nonnegligent manslaughter rate,Forcible rape rate,Robbery rate,Aggravated assault rate,Property crime rate,Burglary rate,Larceny-theft rate,Motor vehicle theft rate,
+Bennington Police Dept,VT,12,      15691,          27,           0,           2,           3,          22,         574,         145,         405,          24,         172.1,            .0,          12.7,          19.1,         140.2,       3658.1,         924.1,       2581.1,         153.0
+Brattleboro Police Dept,VT,12,      11970,          39,           0,           2,          13,          24,         421,          62,         347,          12,         325.8,            .0,          16.7,         108.6,         200.5,       3517.1,         518.0,       2898.9,         100.3
+Burlington Police Dept,VT,12,      42616,         100,           0,          19,          14,          67,       1485,         307,       1178,           0,         234.7,            .0,          44.6,          32.9,         157.2,       3484.6,         720.4,       2764.2,            .0
+Colchester Police Dept,VT,12,      17153,          21,           0,           2,           3,          16,         609,         182,         418,           9,         122.4,            .0,          11.7,          17.5,          93.3,       3550.4,       1061.0,       2436.9,          52.5
+Essex Junction Police Dept,VT,12,      19700,          11,           0,           2,           2,           7,         481,          80,         389,          12,          55.8,            .0,          10.2,          10.2,          35.5,       2441.6,         406.1,       1974.6,          60.9
+Milton Police Dept,VT,12,      10411,          11,           0,           4,           1,           6,         207,          75,         125,           7,         105.7,            .0,          38.4,           9.6,          57.6,       1988.3,         720.4,       1200.7,          67.2
+Rutland Police Dept,VT,12,      16388,          61,           0,           3,          12,          46,       1070,         208,         842,          20,         372.2,            .0,          18.3,          73.2,         280.7,       6529.2,       1269.2,       5137.9,         122.0
+South Burlington Police Dept,VT,12,      18005,          22,           1,           2,           5,          14,         771,          89,         679,           3,         122.2,           5.6,          11.1,          27.8,          77.8,       4282.1,         494.3,       3771.2,          16.7
+
+"Notes: When data are unavailable, the cells are blank or the year is not presented."
+
+              Variations in population coverage and reporting practices may cause differences in reporting from year to year. (See definitions)
+
+              MSA and non-MSA county populations are not available.
+
+"           Rates are the number of reported offenses per 100,000 population"
+
+          Crime rates are not available for agencies that report data for less than 12 months of a year.
+
+"Sources: FBI, Uniform Crime Reports, prepared by the National Archive of Criminal Justice Data" 
+Date of download: Jan 29 2016 

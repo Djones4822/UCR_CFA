@@ -1,0 +1,32 @@
+Uniform Crime Reporting Statistics - UCR Data Online
+http://www.ucrdatatool.gov/
+
+Crime in 2012
+
+Agency,State,Months,Population,Violent crime total,Murder and nonnegligent Manslaughter,Forcible rape,Robbery,Aggravated assault,Property crime total,Burglary,Larceny-theft,Motor vehicle theft,Violent Crime rate,Murder and nonnegligent manslaughter rate,Forcible rape rate,Robbery rate,Aggravated assault rate,Property crime rate,Burglary rate,Larceny-theft rate,Motor vehicle theft rate,
+Boulder City Police Dept,NV,12,      15364,          12,           0,           0,           3,           9,         218,          94,         117,           7,          78.1,            .0,            .0,          19.5,          58.6,       1418.9,         611.8,         761.5,          45.6
+Carson City Sheriffs Dept,NV,12,,         132,           0,           0,          14,         118,       1107,         298,         731,          78,,,,,,,,,
+Douglas County Sheriff Office,NV,12,,          53,           1,           6,           6,          40,         829,         144,         656,          29,,,,,,,,,
+Elko Police Dept,NV,12,      18788,         118,           5,          26,           7,          80,         836,         209,         541,          86,         628.1,          26.6,         138.4,          37.3,         425.8,       4449.6,       1112.4,       2879.5,         457.7
+Henderson Police Dept,NV,12,     263469,         445,           4,          61,         172,         208,       5295,       1408,       3386,         501,         168.9,           1.5,          23.2,          65.3,          78.9,       2009.7,         534.4,       1285.2,         190.2
+Las Vegas Metropolitan Police Department,NV,12,   1479393,      11598,          76,         596,       3824,       7102,      46427,      14220,      25522,       6685,         784.0,           5.1,          40.3,         258.5,         480.1,       3138.2,         961.2,       1725.2,         451.9
+Lyon County Sheriff Office,NV,12,,         141,           1,          17,          12,         111,       1028,         294,         662,          72,,,,,,,,,
+Mesquite City Police Dept,NV,12,      15625,          17,           0,           4,           3,          10,         302,          72,         216,          14,         108.8,            .0,          25.6,          19.2,          64.0,       1932.8,         460.8,       1382.4,          89.6
+North Las Vegas Police Dept,NV,12,     221884,       1695,          14,          73,         389,       1219,       5534,       1557,       3022,         955,         763.9,           6.3,          32.9,         175.3,         549.4,       2494.1,         701.7,       1362.0,         430.4
+Nye County Sheriff Office,NV,12,,         258,           0,          11,          26,         221,       1147,         334,         687,         126,,,,,,,,,
+Reno Police Dept,NV,12,     230486,       1192,           7,          33,         327,         825,       7423,       1633,       4909,         881,         517.2,           3.0,          14.3,         141.9,         357.9,       3220.6,         708.5,       2129.8,         382.2
+Sparks Police Dept,NV,12,      92387,         234,           1,          32,          68,         133,       2559,         609,       1710,         240,         253.3,           1.1,          34.6,          73.6,         144.0,       2769.9,         659.2,       1850.9,         259.8
+Washoe County Sheriff Office,NV,12,,         188,           4,           8,          10,         166,         956,         335,         523,          98,,,,,,,,,
+
+"Notes: When data are unavailable, the cells are blank or the year is not presented."
+
+              Variations in population coverage and reporting practices may cause differences in reporting from year to year. (See definitions)
+
+              MSA and non-MSA county populations are not available.
+
+"           Rates are the number of reported offenses per 100,000 population"
+
+          Crime rates are not available for agencies that report data for less than 12 months of a year.
+
+"Sources: FBI, Uniform Crime Reports, prepared by the National Archive of Criminal Justice Data" 
+Date of download: Jan 29 2016 

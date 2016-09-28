@@ -1,0 +1,36 @@
+Uniform Crime Reporting Statistics - UCR Data Online
+http://www.ucrdatatool.gov/
+
+Crime in 2012
+
+Agency,State,Months,Population,Violent crime total,Murder and nonnegligent Manslaughter,Forcible rape,Robbery,Aggravated assault,Property crime total,Burglary,Larceny-theft,Motor vehicle theft,Violent Crime rate,Murder and nonnegligent manslaughter rate,Forcible rape rate,Robbery rate,Aggravated assault rate,Property crime rate,Burglary rate,Larceny-theft rate,Motor vehicle theft rate,
+Ada County Sheriff Department,ID,12,,         128,           0,          17,           6,         105,       1036,         248,         758,          30,,,,,,,,,
+Bingham County Sheriff Department,ID,12,,          38,           0,           8,           1,          29,         283,          82,         182,          19,,,,,,,,,
+Blackfoot Police Dept,ID,12,      12068,          26,           0,           7,           3,          16,         411,         117,         277,          17,         215.4,            .0,          58.0,          24.9,         132.6,       3405.7,         969.5,       2295.3,         140.9
+Boise Police Dept,ID,12,     211569,         567,           1,          75,          64,         427,       5342,         913,       4272,         157,         268.0,            .5,          35.4,          30.3,         201.8,       2524.9,         431.5,       2019.2,          74.2
+Bonner County Sheriff Department,ID,12,,          30,           1,           2,           1,          26,         451,         183,         224,          44,,,,,,,,,
+Bonneville County Sheriff Department,ID,12,,          61,           0,          15,           2,          44,         688,         147,         514,          27,,,,,,,,,
+Caldwell Police Dept,ID,12,      47223,         121,           1,           7,           7,         106,       1151,         266,         837,          48,         256.2,           2.1,          14.8,          14.8,         224.5,       2437.4,         563.3,       1772.4,         101.6
+Canyon County Sheriff Department,ID,12,,          92,           1,          14,           5,          72,         583,         247,         294,          42,,,,,,,,,
+Chubbuck Police Dept,ID,12,      14162,          39,           0,           2,           3,          34,         568,          39,         513,          16,         275.4,            .0,          14.1,          21.2,         240.1,       4010.7,         275.4,       3622.4,         113.0
+Coeur D'Alene Police Dept,ID,12,      45267,         260,           0,          26,          14,         220,       1978,         431,       1395,         152,         574.4,            .0,          57.4,          30.9,         486.0,       4369.6,         952.1,       3081.7,         335.8
+Garden Police Dept,ID,12,      11293,          57,           1,          11,           3,          42,         476,          89,         370,          17,         504.7,           8.9,          97.4,          26.6,         371.9,       4215.0,         788.1,       3276.4,         150.5
+Idaho Falls Police Dept,ID,12,      58037,         139,           0,          26,          13,         100,       1705,         276,       1361,          68,         239.5,            .0,          44.8,          22.4,         172.3,       2937.8,         475.6,       2345.1,         117.2
+Jerome Police Dept,ID,12,      11115,          45,           0,           7,           6,          32,         197,          67,         118,          12,         404.9,            .0,          63.0,          54.0,         287.9,       1772.4,         602.8,       1061.6,         108.0
+Kootenai County Sheriff Department,ID,12,,          88,           1,          18,           3,          66,       1409,         472,         871,          66,,,,,,,,,
+Lewiston Police Dept,ID,12,      32337,          55,           0,           7,          10,          38,       1280,         289,         934,          57,         170.1,            .0,          21.6,          30.9,         117.5,       3958.3,         893.7,       2888.3,         176.3
+Meridian Police Dept,ID,12,      77270,          92,           0,          13,           9,          70,       1230,         220,         990,          20,         119.1,            .0,          16.8,          11.6,          90.6,       1591.8,         284.7,       1281.2,          25.9
+Moscow Police Dept,ID,12,      24243,          32,           0,           3,           4,          25,         671,          91,         558,          22,         132.0,            .0,          12.4,          16.5,         103.1,       2767.8,         375.4,       2301.7,          90.7
+Mountain Home Police Dept,ID,12,      13935,          53,           0,           7,           3,          43,         218,          35,         178,           5,         380.3,            .0,          50.2,          21.5,         308.6,       1564.4,         251.2,       1277.4,          35.9
+Nampa Police Dept,ID,12,      83316,         203,           2,          44,          20,         137,       2180,         510,       1590,          80,         243.7,           2.4,          52.8,          24.0,         164.4,       2616.5,         612.1,       1908.4,          96.0
+Pocatello Police Dept,ID,12,      55182,         141,           1,          10,          22,         108,       1502,         262,       1192,          48,         255.5,           1.8,          18.1,          39.9,         195.7,       2721.9,         474.8,       2160.1,          87.0
+Post Falls Police Dept,ID,12,      28294,          52,           0,           6,           4,          42,         964,         205,         718,          41,         183.8,            .0,          21.2,          14.1,         148.4,       3407.1,         724.5,       2537.6,         144.9
+Rexburg Police Dept,ID,12,      25879,           9,           0,           2,           1,           6,         216,          21,         191,           4,          34.8,            .0,           7.7,           3.9,          23.2,         834.7,          81.1,         738.1,          15.5
+Twin Falls Police Deparment,ID,12,      44866,         169,           0,          20,          17,         132,       1264,         207,       1001,          56,         376.7,            .0,          44.6,          37.9,         294.2,       2817.3,         461.4,       2231.1,         124.8
+
+"Notes: When data are unavailable, the cells are blank or the year is not presented."
+
+          Crime rates are not available for agencies that report data for less than 12 months of a year.
+
+"Sources: FBI, Uniform Crime Reports, prepared by the National Archive of Criminal Justice Data" 
+Date of download: Jan 29 2016 

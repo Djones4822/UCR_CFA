@@ -1,0 +1,17 @@
+Uniform Crime Reporting Statistics - UCR Data Online
+http://www.ucrdatatool.gov/
+
+Crime in 2012
+
+Agency,State,Months,Population,Violent crime total,Murder and nonnegligent Manslaughter,Forcible rape,Robbery,Aggravated assault,Property crime total,Burglary,Larceny-theft,Motor vehicle theft,Violent Crime rate,Murder and nonnegligent manslaughter rate,Forcible rape rate,Robbery rate,Aggravated assault rate,Property crime rate,Burglary rate,Larceny-theft rate,Motor vehicle theft rate,
+Hawaii County Police Department,HI,8,,         300,           3,          33,          54,         210,       3729,         853,       2589,         287,,,,,,,,,
+Honolulu Police Dept,HI,3,     975875,         566,           5,          40,         206,         315,       7169,       1243,       5297,         629,,,,,,,,,
+Kauai Police Department,HI,9,,         154,           0,          23,          15,         116,       1913,         496,       1310,         107,,,,,,,,,
+Maui Police Department,HI,12,,         411,           5,          44,         115,         247,       6003,       1067,       4419,         517,,,,,,,,,
+
+"Notes: When data are unavailable, the cells are blank or the year is not presented."
+
+          Crime rates are not available for agencies that report data for less than 12 months of a year.
+
+"Sources: FBI, Uniform Crime Reports, prepared by the National Archive of Criminal Justice Data" 
+Date of download: Jan 29 2016 

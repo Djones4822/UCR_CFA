@@ -1,0 +1,25 @@
+Uniform Crime Reporting Statistics - UCR Data Online
+http://www.ucrdatatool.gov/
+
+Crime in 2012
+
+Agency,State,Months,Population,Violent crime total,Murder and nonnegligent Manslaughter,Forcible rape,Robbery,Aggravated assault,Property crime total,Burglary,Larceny-theft,Motor vehicle theft,Violent Crime rate,Murder and nonnegligent manslaughter rate,Forcible rape rate,Robbery rate,Aggravated assault rate,Property crime rate,Burglary rate,Larceny-theft rate,Motor vehicle theft rate,
+Dover Police Dept,DE,12,      36961,         280,           1,          13,          61,         205,       2189,         116,       2008,          65,         757.6,           2.7,          35.2,         165.0,         554.6,       5922.5,         313.8,       5432.8,         175.9
+Middletown,DE,12,      19203,          59,           0,           3,          22,          34,         468,          60,         387,          21,         307.2,            .0,          15.6,         114.6,         177.1,       2437.1,         312.5,       2015.3,         109.4
+New Castle County Police Department,DE,12,,       1076,          14,          66,         284,         712,       6304,       2213,       3690,         401,,,,,,,,,
+Newark Police Dept,DE,12,      31965,         130,           0,           8,          43,          79,       1017,         177,         806,          34,         406.7,            .0,          25.0,         134.5,         247.1,       3181.6,         553.7,       2521.5,         106.4
+Smyrna Police Dept,DE,12,      10292,          39,           0,           1,          17,          21,         325,          63,         254,           8,         378.9,            .0,           9.7,         165.2,         204.0,       3157.8,         612.1,       2467.9,          77.7
+Wilmington Police Dept,DE,12,      72088,       1228,          26,          34,         474,         694,       3824,       1212,       2247,         365,       1703.5,          36.1,          47.2,         657.5,         962.7,       5304.6,       1681.3,       3117.0,         506.3
+
+"Notes: When data are unavailable, the cells are blank or the year is not presented."
+
+              Variations in population coverage and reporting practices may cause differences in reporting from year to year. (See definitions)
+
+              MSA and non-MSA county populations are not available.
+
+"           Rates are the number of reported offenses per 100,000 population"
+
+          Crime rates are not available for agencies that report data for less than 12 months of a year.
+
+"Sources: FBI, Uniform Crime Reports, prepared by the National Archive of Criminal Justice Data" 
+Date of download: Jan 29 2016 

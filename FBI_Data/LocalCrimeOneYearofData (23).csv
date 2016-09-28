@@ -1,0 +1,32 @@
+Uniform Crime Reporting Statistics - UCR Data Online
+http://www.ucrdatatool.gov/
+
+Crime in 2012
+
+Agency,State,Months,Population,Violent crime total,Murder and nonnegligent Manslaughter,Forcible rape,Robbery,Aggravated assault,Property crime total,Burglary,Larceny-theft,Motor vehicle theft,Violent Crime rate,Murder and nonnegligent manslaughter rate,Forcible rape rate,Robbery rate,Aggravated assault rate,Property crime rate,Burglary rate,Larceny-theft rate,Motor vehicle theft rate,
+Billings Police Dept,MT,12,     106371,         370,           3,          38,          68,         261,       4812,         793,       3608,         411,         347.8,           2.8,          35.7,          63.9,         245.4,       4523.8,         745.5,       3391.9,         386.4
+Bozeman Police Dept,MT,12,      38289,          98,           1,          30,           8,          59,       1326,         134,       1136,          56,         255.9,           2.6,          78.4,          20.9,         154.1,       3463.1,         350.0,       2966.9,         146.3
+Flathead County Sheriff Department,MT,12,,         150,           0,          12,           5,         133,       1258,         318,         878,          62,,,,,,,,,
+Gallatin County Sheriff Department,MT,12,,          52,           0,          16,           1,          35,         380,          54,         309,          17,,,,,,,,,
+Great Falls Police Dept,MT,12,      59360,         151,           1,          10,          25,         115,       2788,         320,       2338,         130,         254.4,           1.7,          16.8,          42.1,         193.7,       4696.8,         539.1,       3938.7,         219.0
+Helena Police Dept,MT,12,      28791,         127,           0,          26,          12,          89,       1015,         122,         861,          32,         441.1,            .0,          90.3,          41.7,         309.1,       3525.4,         423.7,       2990.5,         111.1
+Kalispell Police Dept,MT,12,      20147,          69,           1,          17,           7,          44,         894,          90,         770,          34,         342.5,           5.0,          84.4,          34.7,         218.4,       4437.4,         446.7,       3821.9,         168.8
+Lewis & Clark County Sheriff Office,MT,12,,          59,           3,          12,           2,          42,         366,          79,         258,          29,,,,,,,,,
+Missoula City Police Dept,MT,12,      67758,         221,           0,          25,          33,         163,       3041,         378,       2558,         105,         326.2,            .0,          36.9,          48.7,         240.6,       4488.0,         557.9,       3775.2,         155.0
+Missoula County Sheriff Office,MT,12,,         100,           0,          16,           5,          79,         479,          80,         358,          41,,,,,,,,,
+Ravalli County Sheriff Office,MT,12,,          44,           1,           3,           1,          39,         357,          37,         304,          16,,,,,,,,,
+Butte-Silver Bow Sheriffs Dept,MT,12,,          88,           0,           3,           6,          79,       1274,         197,         973,         104,,,,,,,,,
+Yellowstone County Sheriff Office,MT,12,,          53,           1,           1,           1,          50,         634,         164,         412,          58,,,,,,,,,
+
+"Notes: When data are unavailable, the cells are blank or the year is not presented."
+
+              Variations in population coverage and reporting practices may cause differences in reporting from year to year. (See definitions)
+
+              MSA and non-MSA county populations are not available.
+
+"           Rates are the number of reported offenses per 100,000 population"
+
+          Crime rates are not available for agencies that report data for less than 12 months of a year.
+
+"Sources: FBI, Uniform Crime Reports, prepared by the National Archive of Criminal Justice Data" 
+Date of download: Jan 29 2016 

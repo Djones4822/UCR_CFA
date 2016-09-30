@@ -73,6 +73,10 @@ def upgrade():
                     sa.Column('crime_type_id', sa.Integer, primary_key=True),
                     sa.Column('description', sa.String(300), nullable=False),
                     sa.Column('parent_crime_type_id', sa.Integer, sa.ForeignKey('crime_types.crime_type_id'), nullable=True))
+    op.create_table('crime_type_relate',
+                    sa.Column('crime_id', sa.Integer, sa.ForeignKey('crimes.crime_id')),
+                    sa.Column('crime_type_id', sa.Integer, sa.ForeignKey('crime_types.crime_type_id')),
+                    sa.PrimaryKeyConstraint('crime_id', 'crime_type_id'))
     op.create_table('crime_stats_local',
                     sa.Column('agency_id', sa.Integer, sa.ForeignKey('agencies.agency_id')),
                     sa.Column('crime_id', sa.Integer, sa.ForeignKey('crimes.crime_id')),
@@ -91,6 +95,7 @@ def upgrade():
 def downgrade():
         op.drop_table('crime_stats_ucr')
         op.drop_table('crime_stats_local')
+        op.drop_table('crime_type_relate')
         op.drop_table('crime_types')
         op.drop_table('crimes')
         op.drop_table('agency_phone_numbers')

@@ -11,7 +11,6 @@ def get_url():
         os.getenv("UCR_CFA_DB_NAME"))
 
 engine = create_engine(get_url())
-Session = sessionmaker(bind=engine)
 
 
 def get_db_info():

@@ -93,3 +93,6 @@ ENV/
 
 # Emacs Tramp
 *.tramp_history
+
+#macOS
+.DS_Store

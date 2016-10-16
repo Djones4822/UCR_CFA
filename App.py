@@ -1,6 +1,7 @@
 import os
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy import create_engine
+from DiscoverPolicingScraper import DiscoverPolicingScraper
 
 
 def get_url():
@@ -25,5 +26,10 @@ def get_db_info():
     return version
 
 
-def scrape():
-    return "Not implemented"
+def scrape_all():
+    scrape_discover_policing()
+
+
+def scrape_discover_policing():
+    scraper = DiscoverPolicingScraper.createForDBOutput(engine)
+    scraper.scrape()

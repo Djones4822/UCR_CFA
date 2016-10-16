@@ -4,9 +4,15 @@ import App
 
 def print_help():
     print("To exit, type quit")
-    print("I don't currently do anything else")
+    print("To scrape and save to database, type scrape")
+    print("That's all for now")
 
-actions = {'help': print_help, 'quit': quit}
+
+def scrape():
+    App.scrape_all()
+
+
+actions = {'help': print_help, 'quit': quit, 'scrape': scrape}
 
 print("*" * 80)
 print(" " * 27 + "UCR_CFA")

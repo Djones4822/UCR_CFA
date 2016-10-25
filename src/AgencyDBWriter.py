@@ -1,10 +1,20 @@
+# Writes agency data to the database
 from sqlalchemy.orm import sessionmaker
 from Agency import Agency
 
 
 class AgencyDBWriter(object):
+    """
+    Used to write agency data to the database
+    """
 
     def __init__(self, sa_engine):
+        """
+        Create new database writer
+        PARAMS:
+        sa_engine -- SQL Alchemy Engine to use to connect to DB
+        """
+
         DBsession = sessionmaker(bind=sa_engine)
 
         self.session = DBsession()

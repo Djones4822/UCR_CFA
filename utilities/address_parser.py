@@ -7,9 +7,11 @@ from config import settings, constants
 
 
 db = dataset.connect(settings.DB_URL)
+
 working_table = db[constants.SOURCE_TABLE_NAME]
 parsed_table = db[constants.PARSED_TABLE_NAME]
-ga_entities = working_table.find(agency_name='GA')
+
+ga_agencies = working_table.find(agency_name='GA')
 
 
 def un_camel(s):
@@ -57,16 +59,16 @@ def fix_address(s):
 
     Returns: converted string
     """
-    if s.find('PO Box') > 0:
+    if s.find('PO Box') > 1:
         loc = s.find('PO Box')
         fixed_address = s[:loc] + ' ' + s[loc:]
-    elif s.find('P.O. Box') > 0:
+    elif s.find('P.O. Box') > 1:
         loc = s.find('P.O. Box')
         fixed_address = s[:loc] + ' ' + s[loc:]
-    elif s.find('P. O. Box') > 0:
+    elif s.find('P. O. Box') > 1:
         loc = s.find('P. O. Box')
         fixed_address = s[:loc] + ' ' + s[loc:]
-    elif s.find('P O Box') > 0:
+    elif s.find('P O Box') > 1:
         loc = s.find('P O Box')
         fixed_address = s[:loc] + ' ' + s[loc:]
     else:
@@ -74,8 +76,8 @@ def fix_address(s):
     return fixed_address
 
 
-for org in ga_entities:
-    address_to_parse = fix_address(org[constants.ADDRESS_FIELD])
+for agency in working_table:
+    address_to_parse = fix_address(agency[constants.ADDRESS_FIELD])
     print(address_to_parse)
     try:
         address_parsed, address_type = usaddress.tag(address_to_parse)
@@ -86,7 +88,7 @@ for org in ga_entities:
     data = convert_dict_keys(dict(address_parsed))
     data.update({
         'address_type': address_type,
-        'ukey': org['ukey'],
-        'input_address': org[constants.ADDRESS_FIELD],
+        'id': agency['id'],
+        'input_address': agency[constants.ADDRESS_FIELD],
         })
     parsed_table.insert(data)

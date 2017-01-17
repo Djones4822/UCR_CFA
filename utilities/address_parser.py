@@ -65,10 +65,10 @@ def fix_address(s):
         loc = s.find('P.O. Box')
         fixed_address = s[:loc] + ' ' + s[loc:]
     elif s.find('P. O. Box') > 0:
-        loc = s.find('P.O. Box')
+        loc = s.find('P. O. Box')
         fixed_address = s[:loc] + ' ' + s[loc:]
     elif s.find('P O Box') > 0:
-        loc = s.find('P.O. Box')
+        loc = s.find('P O Box')
         fixed_address = s[:loc] + ' ' + s[loc:]
     else:
         fixed_address = s

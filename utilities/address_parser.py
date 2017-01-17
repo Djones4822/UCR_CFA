@@ -36,7 +36,6 @@ def convert_dict_keys(d):
     Takes in dict and converts the keys to lower case understore
     string. This function utilizes the un_camel function
 
-
     Args:
     __d__: dict to convert
 
@@ -79,9 +78,7 @@ for org in ga_entities:
     address_to_parse = fix_address(org[constants.ADDRESS_FIELD])
     print(address_to_parse)
     try:
-        address_parsed, address_type = usaddress.tag(
-            address_to_parse
-        )
+        address_parsed, address_type = usaddress.tag(address_to_parse)
     except usaddress.RepeatedLabelError as e:
         address_parsed = ''
         address_type = 'Parsing Error'

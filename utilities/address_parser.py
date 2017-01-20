@@ -60,17 +60,17 @@ def fix_address(s):
 
     Returns: converted string
     """
-    if s.find('PO Box') > 1:
-        loc = s.find('PO Box')
+    if s.upper().find('PO BOX') > 1:
+        loc = s.upper().find('PO BOX')
         fixed_address = s[:loc] + ' ' + s[loc:]
-    elif s.find('P.O. Box') > 1:
-        loc = s.find('P.O. Box')
+    elif s.upper().find('P.O. BOX') > 1:
+        loc = s.upper().find('P.O. BOX')
         fixed_address = s[:loc] + ' ' + s[loc:]
-    elif s.find('P. O. Box') > 1:
-        loc = s.find('P. O. Box')
+    elif s.upper().find('P. O. BOX') > 1:
+        loc = s.upper().find('P. O. BOX')
         fixed_address = s[:loc] + ' ' + s[loc:]
-    elif s.find('P O Box') > 1:
-        loc = s.find('P O Box')
+    elif s.upper().find('P O BOX') > 1:
+        loc = s.upper().find('P O BOX')
         fixed_address = s[:loc] + ' ' + s[loc:]
     else:
         fixed_address = s
@@ -91,5 +91,6 @@ for agency in working_table:
         'address_type': address_type,
         'id': agency['id'],
         'input_address': agency[constants.ADDRESS_FIELD],
+        'fixed_address': address_to_parse,
         })
     parsed_table.insert(data)

@@ -74,7 +74,7 @@ def fix_address(s):
         fixed_address = s[:loc] + ' ' + s[loc:]
     else:
         fixed_address = s
-    return fixed_address
+    return ' '.join(fixed_address.split())
 
 
 for agency in working_table:

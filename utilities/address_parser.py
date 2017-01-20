@@ -11,7 +11,7 @@ db = dataset.connect(settings.DB_URL)
 working_table = db[constants.SOURCE_TABLE_NAME]
 parsed_table = db[constants.PARSED_TABLE_NAME]
 
-#Use this to run against GA agencies only
+# Use this to run against GA agencies only
 #ga_agencies = working_table.find(agency_name='GA')
 
 

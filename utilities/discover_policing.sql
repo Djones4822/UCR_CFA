@@ -21,6 +21,10 @@ select address_type, count(*) as cnt
 from parsed_data
 group by address_type;
 
+select *
+from parsed_data
+where address_type in('Parsing Error', 'Review Parsed Data');
+
 ---------------------------------------------------------------------
 -- Google GeoCode the records...
 ---------------------------------------------------------------------

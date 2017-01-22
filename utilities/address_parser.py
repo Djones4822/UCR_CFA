@@ -92,5 +92,6 @@ for agency in working_table:
         'id': agency['id'],
         'input_address': agency[constants.ADDRESS_FIELD],
         'fixed_address': address_to_parse,
+        'department': agency[constants.DEPARTMENT_FIELD]
         })
     parsed_table.insert(data)

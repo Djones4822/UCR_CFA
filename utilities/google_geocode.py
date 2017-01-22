@@ -11,11 +11,12 @@ geocode_table = db[constants.GOOGLE_GEOCODE_TABLE_NAME]
 
 # You can use this to run through only GA agencies...
 #ga_agencies = working_table.find(state_name='GA')
+chunk = working_table.find(geocoded=False)
 
 gmaps = googlemaps.Client(settings.GOOGLE_API_KEY)
 
 
-for agency in working_table:
+for agency in chunk:
     geocoded_data = {}
     address_to_geocode = agency['fixed_address']
     print(address_to_geocode)
